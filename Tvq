@@ -1,8 +1,10 @@
 #EXTM3U
     #EXTINFroup,Latin America,=======> Latino <=======,http://premium-iptv.link:6969/live/ma/ma/13171.t
-#EXTINF:-Latino: TNT Series HD,http://premium-iptv.link:6969/live/ma/ma/5179.ts
+#EXTINF:-Latino: TNT Series HD
+http://premium-iptv.link:6969/live/ma/ma/5179.ts
 
-#EXTINF:-Latino: NatGeo Wild HD,http://premium-iptv.link:6969/live/ma/ma/5180.ts
+#EXTINF:-Latino: NatGeo Wild HD,
+http://premium-iptv.link:6969/live/ma/ma/5180.ts
 #EXTINF:-Latino: Multimedios Monterrey HD,http://premium-iptv.link:6969/live/ma/ma/5181.ts
 #EXTINF:-Latino: Fox Sports 2 HD,http://premium-iptv.link:6969/live/ma/ma/5183.ts
 #EXTINF:-Latino: Fox Sports,http://premium-iptv.link:6969/live/ma/ma/5184.ts
